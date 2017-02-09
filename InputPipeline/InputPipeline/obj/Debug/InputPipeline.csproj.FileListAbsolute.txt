@@ -1,0 +1,6 @@
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\bin\Debug\InputPipeline.dll.config
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\bin\Debug\InputPipeline.dll
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\bin\Debug\InputPipeline.pdb
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\obj\Debug\InputPipeline.dll
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\obj\Debug\InputPipeline.pdb
+C:\Users\warhe\OneDrive\Libreria\C Sharp\Un Proyecto Random\InputPipeline\InputPipeline\obj\Debug\InputPipeline.csprojResolveAssemblyReference.cache
