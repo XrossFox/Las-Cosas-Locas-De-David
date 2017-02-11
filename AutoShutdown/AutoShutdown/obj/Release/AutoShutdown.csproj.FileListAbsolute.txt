@@ -1,0 +1,7 @@
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.exe.config
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.exe
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\bin\Release\AutoShutdown.pdb
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.AutoForm.resources
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.csproj.GenerateResource.Cache
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.exe
+Z:\Repo\Las-Cosas-Locas-De-David\AutoShutdown\AutoShutdown\obj\Release\AutoShutdown.pdb
